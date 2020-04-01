@@ -1,7 +1,9 @@
 # Entrepreneurship Style Quiz
 A Vue.js implementation of an Entrepreneurship Style Quiz for an Orientation Program in Entrepreneurship.
 
-## Running the app
+### The app in action: https://notrexbias.github.io/entrepreneurship_style_quiz/
+
+## Running the app [View In Github Pages](https://notrexbias.github.io/entrepreneurship_style_quiz/)
 
 ### Installation
 1. Download the app
@@ -25,3 +27,5 @@ npm run serve
 ```
 
 3. The application will open automatically in your browser at http://localhost:8080.
+
+
