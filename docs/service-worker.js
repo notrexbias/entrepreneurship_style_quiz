@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/entrepreneurship_style_quiz/precache-manifest.47453091cb8ad4dc6a17cf7a2743b55b.js"
+  "/entrepreneurship_style_quiz/precache-manifest.6f4d9a656980d7c7e4ceaf1b711bc194.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "enterpreneurship"});
