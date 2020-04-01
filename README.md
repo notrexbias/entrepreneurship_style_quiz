@@ -1,5 +1,5 @@
 # Entrepreneurship Style Quiz
-A Vue.js implementation/automation of the Entrepreneurship Style Quiz provided by the Wadhwani Foundation in the Orientation Program in Entrepreneurship
+A Vue.js implementation of an Entrepreneurship Style Quiz for an Orientation Program in Entrepreneurship.
 
 ## Running the app
 
