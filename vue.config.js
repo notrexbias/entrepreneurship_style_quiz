@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/entrepreneurship/'
+    publicPath: '/entrepreneurship_style_quiz/'
 };

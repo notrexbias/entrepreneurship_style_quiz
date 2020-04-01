@@ -20,12 +20,6 @@ const routes = [
     component: Home
   },
   {
-    path: '/prev',
-    name: 'Prev',
-    component: () => import('../views/PrevNext.vue'),
-    props: true
-  },
-  {
     path: '/result',
     name: 'Result',
     component: () => import('../views/Result.vue'),
